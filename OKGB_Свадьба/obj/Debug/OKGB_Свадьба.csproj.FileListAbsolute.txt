@@ -1,0 +1,9 @@
+D:\Is-20-2\OKGB_Свадьба\bin\Debug\OKGB_Свадьба.exe.config
+D:\Is-20-2\OKGB_Свадьба\bin\Debug\OKGB_Свадьба.exe
+D:\Is-20-2\OKGB_Свадьба\bin\Debug\OKGB_Свадьба.pdb
+D:\Is-20-2\OKGB_Свадьба\obj\Debug\OKGB_Свадьба.csprojAssemblyReference.cache
+D:\Is-20-2\OKGB_Свадьба\obj\Debug\OKGB_Свадьба.Form1.resources
+D:\Is-20-2\OKGB_Свадьба\obj\Debug\OKGB_Свадьба.Properties.Resources.resources
+D:\Is-20-2\OKGB_Свадьба\obj\Debug\OKGB_Свадьба.csproj.GenerateResource.cache
+D:\Is-20-2\OKGB_Свадьба\obj\Debug\OKGB_Свадьба.exe
+D:\Is-20-2\OKGB_Свадьба\obj\Debug\OKGB_Свадьба.pdb

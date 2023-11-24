@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+<EditText
+    android:id="@+id/editTextTextPersonName"
+    android:layout_width="0dp"
+    android:layout_height="0dp"
+    android:layout_marginStart="10dp"
+    android:layout_marginTop="10dp"
+    android:layout_marginEnd="10dp"
+    android:layout_marginBottom="10dp"
+    android:background="#FFFFFF"
+    android:backgroundTint="#FFFFFF"
+    android:ems="10"
+    android:inputType="textPersonName"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"></EditText>
+<MultiAutoCompleteTextView
+    android:id="@+id/multiAutoCompleteTextView"
+    android:layout_width="0dp"
+    android:layout_height="0dp"
+    android:layout_marginStart="10dp"
+    android:layout_marginTop="70dp"
+    android:layout_marginEnd="10dp"
+    android:layout_marginBottom="80dp"
+    android:background="#FFFFFF"
+    android:backgroundTint="#FFFFFF"
+    android:textAllCaps="false"></MultiAutoCompleteTextView>
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="411dp"
+        android:layout_height="734dp"
+        android:background="#FFFFFF"
+        android:backgroundTint="#FFFFFF"
+        android:fallbackLineSpacing="false"
+        android:text="Создать"
+        android:textColor="#F1B130"
+        tools:layout_editor_absoluteX="-1dp"
+        tools:layout_editor_absoluteY="-3dp"
+        android:onClick=OpenNote></Button>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

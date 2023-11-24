@@ -1,0 +1,5 @@
+<resources>
+    <string name="имя_массива_строк">
+        <item>элемент</item>
+    </string>
+</resources>
